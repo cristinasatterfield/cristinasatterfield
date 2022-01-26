@@ -1,10 +1,10 @@
 # Hola!
 
 👋🏼 𝗪𝗛𝗢 𝗜 𝗔𝗠
-- 👩🏻‍💻 ︱ My name is Cristina and I'm a junior software engineer.
+- 👩🏻‍💻 ︱ My name is Cristina (she/hers) and I'm a junior software engineer.
 - 👩🏻‍🎓 ︱ I am a graduate of The Grace Hopper Program at Fullstack Academy. 
-- 🍎 ︱ Before pivoting software engineering, my path was centered around elementary school education. Most recently, I worked as a bilingual 5th-grade teacher!
-- 🥾 ︱ Fun fact: I am an enthusiastic hiker and have been training to hike the Grand Canyon's Bright Angel Trail all 14 miles down to the Colorado River!
+- 🍎︱ Before pivoting to software engineering, my path was centered around elementary school education. Most recently, I worked as a bilingual 5th-grade teacher!
+- 🥾︱ Fun fact: I am an enthusiastic hiker and have been training to hike the Grand Canyon's Bright Angel Trail all 14 miles down to the Colorado River!
 
 🙌🏼 𝗠𝗜𝗦𝗦𝗜𝗢𝗡 & 𝗩𝗜𝗦𝗜𝗢𝗡
 
